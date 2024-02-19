@@ -27,6 +27,11 @@ In this challenge, I took a raw dataset (`raw_data.csv`) and applied data cleani
 
 3. **Review Documentation:**
    - Additional insights, assumptions, and a detailed explanation of the cleaning process will be added here in the future.
+   * raw_data.csv
+   ![raw_data.csv](https://github.com/Vivek-S1n9h/Data-cleaning-challenge-using-Python/blob/main/img/raw_data_csv.PNG)
+
+   * cleaned_data.csv
+   ![cleaned_data.csv](https://github.com/Vivek-S1n9h/Data-cleaning-challenge-using-Python/blob/main/img/cleaned_csv.PNG)
 
 4. **Evaluate Results:**
    - Examine the cleaned dataset [(`cleaned_data.csv`)](https://github.com/Vivek-S1n9h/Data-cleaning-challenge-using-Python/blob/main/cleaned_data.csv) to see the improvements made.
